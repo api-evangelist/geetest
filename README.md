@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GeeTest is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://geetest.com/
+GeeTest provides an all‑in‑one bot management and CAPTCHA solution for websites and mobile apps. Their platform combines behavior verification, device fingerprinting, and a business rules engine to detect and block fraudulent activities such as account takeover, credential stuffing, payment fraud, web scraping, and scalping. GeeTest serves enterprises across e‑commerce, finance, travel, social media, blockchain, and gaming, offering adaptive CAPTCHAs and risk management tools to ensure seamless user experiences while maintaining security.
+
+**Areas:** Security · BotManagement · CAPTCHA · FraudPrevention · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://geetest.com/)
+- [Documentation](https://docs.geetest.com/en/)
+- [Getting started](https://docs.geetest.com/en/BehaviorVerification/overview/start/)
+- [API reference](https://docs.geetest.com/en/)
+- [Sign up](https://www.geetest.com/Register)
+- [Support](https://www.geetest.com/en/Contactus)
+- [Changelog](https://docs.geetest.com/brde/deploy/changelog)
+- [Blog](https://www.geetest.com/en/blog)
+- [Terms of service](https://www.geetest.com/en/legal)
+- [Privacy policy](https://www.geetest.com/en/legal)
+- [GitHub](https://github.com/GeeTeam)
+- [Status](https://www.geetest.com/status)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/geetest/](https://apis.io/providers/geetest/).
